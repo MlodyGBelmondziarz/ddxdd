@@ -1,0 +1,31 @@
+
+A
+{
+font-size: 18pt;
+text-decoration: none; /* żadna linia nie jest rysowana, a wszelkie dekoracje zostają usunięte */
+}
+
+A:link
+{
+color: blue;
+}
+
+A:visited
+{
+color: green;
+}
+
+A:hover
+{
+color: red;
+text-decoration: underline; /*podreślenie tekstu*/
+}
+
+div{
+color:red;
+font-size:2cm;
+border: 1px solid black;
+background-color: blue;
+}
+
+/* Hubert Barkowski */

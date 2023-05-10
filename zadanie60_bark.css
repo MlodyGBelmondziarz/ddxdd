@@ -1,0 +1,30 @@
+
+/*Hover zaznacza elementy po najechaniu na nie kursorem*/
+
+div#blok1_barkowski {
+	background-color: 00ff00;
+	width:601px;
+	}
+div#blok2_barkowski {
+	background-color: 00ff00;
+	width:601px;
+	}
+div#blok3_barkowski {
+	background-color: 00ff00;
+	width:601px;
+	}
+div#blok1_barkowski:hover {
+	background-color: FF1212;
+	font-size:19mm;
+	}
+div#blok2_barkowski:hover {
+	background-color: C0C0C0;
+	font-size:19mm;
+	}
+div#blok3_barkowski:hover {
+	background-color: 0000FF;
+	font-size:19mm;
+	}
+
+
+/* Hubert Barkowski */
